@@ -9,7 +9,7 @@ def set_style(name,height,bold=False):
 	font.color_index = 4
 	font.height = height
 	style.font = font
-    print(style.font.name)
+    	print(style.font.name)
 	return style
 
 #写Excel
